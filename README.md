@@ -8,6 +8,8 @@
 
 > “Predict home values with precision—and turn data into decisions.”
 
+![Ekran görüntüsü 2025-05-19 180618](https://github.com/user-attachments/assets/5ae360d9-a781-4331-b846-4667278e73b8)
+
 ---
 
 ## 🔍 Features
